@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ob/Documents/GitHub/cs222_w3/cs222_w3.csproj",
+      "projectUniqueName": "/Users/ob/GitHub/cs222_w3/cs222_w3.csproj",
       "projectName": "cs222_w3",
-      "projectPath": "/Users/ob/Documents/GitHub/cs222_w3/cs222_w3.csproj",
+      "projectPath": "/Users/ob/GitHub/cs222_w3/cs222_w3.csproj",
       "packagesPath": "/Users/ob/.nuget/packages/",
-      "outputPath": "/Users/ob/Documents/GitHub/cs222_w3/obj/",
+      "outputPath": "/Users/ob/GitHub/cs222_w3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ob/.nuget/NuGet/NuGet.Config"
