@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michaelobrien/Studio/carolina-university/cs222_w3/cs222_w3.csproj": {}
+    "/Users/michaelobrien/CS222/Code/cs222_w3/cs222_w3.csproj": {}
   },
   "projects": {
-    "/Users/michaelobrien/Studio/carolina-university/cs222_w3/cs222_w3.csproj": {
+    "/Users/michaelobrien/CS222/Code/cs222_w3/cs222_w3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michaelobrien/Studio/carolina-university/cs222_w3/cs222_w3.csproj",
+        "projectUniqueName": "/Users/michaelobrien/CS222/Code/cs222_w3/cs222_w3.csproj",
         "projectName": "cs222_w3",
-        "projectPath": "/Users/michaelobrien/Studio/carolina-university/cs222_w3/cs222_w3.csproj",
+        "projectPath": "/Users/michaelobrien/CS222/Code/cs222_w3/cs222_w3.csproj",
         "packagesPath": "/Users/michaelobrien/.nuget/packages/",
-        "outputPath": "/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/",
+        "outputPath": "/Users/michaelobrien/CS222/Code/cs222_w3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michaelobrien/.nuget/NuGet/NuGet.Config"
