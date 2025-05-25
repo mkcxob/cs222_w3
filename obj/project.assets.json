@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/ob/.nuget/packages/": {}
+    "/Users/michaelobrien/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ob/GitHub/cs222_w3/cs222_w3.csproj",
+      "projectUniqueName": "/Users/michaelobrien/Studio/carolina-university/cs222_w3/cs222_w3.csproj",
       "projectName": "cs222_w3",
-      "projectPath": "/Users/ob/GitHub/cs222_w3/cs222_w3.csproj",
-      "packagesPath": "/Users/ob/.nuget/packages/",
-      "outputPath": "/Users/ob/GitHub/cs222_w3/obj/",
+      "projectPath": "/Users/michaelobrien/Studio/carolina-university/cs222_w3/cs222_w3.csproj",
+      "packagesPath": "/Users/michaelobrien/.nuget/packages/",
+      "outputPath": "/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ob/.nuget/NuGet/NuGet.Config"
+        "/Users/michaelobrien/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

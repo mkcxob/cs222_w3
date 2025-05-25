@@ -1,0 +1,15 @@
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/bin/Debug/net9.0/cs222_w3.deps.json
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/bin/Debug/net9.0/cs222_w3.dll
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/bin/Debug/net9.0/cs222_w3.pdb
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/cs222_w3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/cs222_w3.AssemblyInfoInputs.cache
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/cs222_w3.AssemblyInfo.cs
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/cs222_w3.csproj.CoreCompileInputs.cache
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/cs222_w3.sourcelink.json
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/cs222_w3.dll
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/refint/cs222_w3.dll
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/cs222_w3.pdb
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/ref/cs222_w3.dll
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/bin/Debug/net9.0/cs222_w3
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/bin/Debug/net9.0/cs222_w3.runtimeconfig.json
+/Users/michaelobrien/Studio/carolina-university/cs222_w3/obj/Debug/net9.0/cs222_w3.genruntimeconfig.cache
